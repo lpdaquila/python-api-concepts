@@ -43,5 +43,5 @@ def main(name):
         print(f"-> {dict_estados.get(id_estado, "Desconhecido")}: {frequencia}")
     
 if __name__ == "__main__":
-    main("Naiane")
+    main("Lucas")
     
